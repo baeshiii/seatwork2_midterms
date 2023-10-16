@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Maleniza_Jhon_Andre_Seatwork_Two</string>
+    <string name="attempts">Attempts: %1$d</string>
+    <string name="bad_luck">Bad luck, Gods plan, number is: %1$d</string>
+    <string name="hint">Hint: Higher / Lower</string>
+    <string name="result">You Guessed it Correctly, ANSWER: %1$d</string>
+</resources>
